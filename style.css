@@ -6,7 +6,7 @@
 }
 
     body {
-        background-image: url("./snow.jpg"); /* for add image */
+        background-image: url("confetti-15.gif"); /* for add image */
         background-size: cover; /* for size image */
         background-position: top center; /* for pozition image */
         display: flex; /* for box */
@@ -22,12 +22,14 @@
         font-weight: normal;
         font-size: 4rem;
         margin-top: 10rem;
+        color: aliceblue;
     }
 
     .countdown-container {
         display: flex;
         flex-wrap: wrap; /* for restrate the page*/
         justify-content: center;
+        color: aliceblue;
     }
 
     .big-text {
@@ -35,14 +37,17 @@
         line-height: 1;
         margin: 0 2rem;
         margin: 1rem 2rem;
+        color: aliceblue;
     }
 
     .countdown-el span {
         text-align: center;
         margin: 2rem;
+        color: aliceblue;
     }
 
     .countdown-el span {
         text-align: center;
         font-size: 1.5rem;
+        color: aliceblue;
     }
